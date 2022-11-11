@@ -10,4 +10,4 @@
 
 bool CopyFileLTY(char *srcFile, char *dstFile);
 
-#
+#endif
