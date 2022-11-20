@@ -8,6 +8,6 @@
 #include<errno.h>
 #include "log.h"
 
-bool CopyFileLTY(char *srcFile, char *dstFile);
+bool CopyFileLTY(const char *srcFile, char *dstFile);
 
 #endif

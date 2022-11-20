@@ -1,6 +1,6 @@
 #include "BasicFunc.h"
 
-bool CopyFileLTY(char *srcFile, char *dstFile)
+bool CopyFileLTY(const char *srcFile, char *dstFile)
 {
     bool retValue = false;
 
